@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.s0xzwasd.intellijgostructzerovaluesinspector.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.s0xzwasd.intellijgostructzerovaluesinspector.MyBundle
 
 class MyProjectService(project: Project) {
 
